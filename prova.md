@@ -1,5 +1,5 @@
 layout: page
 title: "prova"
-permalink: /prova/
+permalink: /prova01/
 
 Questa è una prova
